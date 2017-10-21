@@ -1,0 +1,4 @@
+GetNewTwitchStream Get stream
+GetNewTwitchStream Get users streams
+GetNewTwitchUserIntent Get users
+GetNewTwitchUserIntent Get users followers
