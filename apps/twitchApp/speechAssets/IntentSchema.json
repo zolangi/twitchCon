@@ -16,7 +16,7 @@
       "intent": "AMAZON.StopIntent"
     },
     {
-      "intent": "GetNewTwitchStream"
+      "intent": "GetNewTwitchStreamIntent"
     },
     {
       "intent": "GetNewTwitchUserIntent"
