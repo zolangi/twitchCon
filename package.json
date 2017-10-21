@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "twitch-auth-sample",
   "version": "1.0.0",
   "description": "Twitch API Authentication Example using Node, Express, and Passport.",
@@ -17,4 +18,13 @@
   },
   "author": "Twitch Interactive, Inc.",
   "license": "Apache-2.0"
+=======
+  "name": "twitchCon",
+  "version": "1.0.0",
+  "description": "Twitch alexa app",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "dblock/alexa-app-server#a-little-closer-56"
+  }
+>>>>>>> 480584aff25a54c3544c37427573cc495c505e47
 }
