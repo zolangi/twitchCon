@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",  
+      "samples": []  
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.PauseIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.ResumeIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewTwitchStreamIntent",
+      "samples": [
+        "Get stream",
+        "Get users streams"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GetNewTwitchUserIntent",
+      "samples":[
+	"Get users",
+	"Get users followers"
+      ],
+      "slots": []
+    }
+  ]
+}
