@@ -1,0 +1,17 @@
+{
+  "name": "twitchapp",
+  "version": "1.0.0",
+  "description": "twitch app that does twitch stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "que"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-session": "^1.15.6",
+    "handlebars": "^4.0.11",
+    "passport": "^0.4.0",
+    "passport-oauth": "^1.0.0"
+  }
+}
